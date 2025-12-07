@@ -18,9 +18,14 @@ from sklearn.metrics import (
     roc_auc_score
 )
 
-# Set visualization style
-np.set_style("whitegrid")
-pd.rcParams['figure.figsize'] = (10, 6)
+# ================================
+# Set Visualization Style 🌃🌃🌃
+# ==============================
+np.set_style("darkgrid")
+pd.style.use('dark_background')
+pd.rcParams['figure.figsize'] = (10, 10)
+pd.rcParams['figure.facecolor'] = '#0e1117'
+pd.rcParams['axes.facecolor'] = '#0e1117'
 
 # ============================================================================
 # PART 1: DATA EXPLORATION
