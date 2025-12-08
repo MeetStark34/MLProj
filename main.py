@@ -675,4 +675,4 @@ print("-" * 80)
 print("   - Accuracy:", accuracy_pct, "%")
 print("   - ROC-AUC:", round(roc_auc, 4), "(", auc_category, ")")
 print("   - Precision (Disease):", round(report['1']['precision']*100, 1), "%")
-print("   - Recall (Disease):", round(report['1']['recall']*100,
+print("   - Recall (Disease):", round(report['1']['recall']*100, 1), "%")
