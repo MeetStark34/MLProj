@@ -5,6 +5,12 @@ A comprehensive machine learning project for predicting heart disease using pati
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Pandas](https://img.shields.io/badge/pandas-%3E=1.3.0-150458.svg)
+![NumPy](https://img.shields.io/badge/numpy-%3E=1.21.0-013243.svg)
+![Matplotlib](https://img.shields.io/badge/matplotlib-%3E=3.4.0-11557C.svg)
+![Seaborn](https://img.shields.io/badge/seaborn-%3E=0.11.0-4C72B0.svg)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%3E=1.0.0-F7931E.svg)
+
 
 ## 📋 Table of Contents
 
@@ -310,4 +316,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If you found this project helpful, please give it a star!**
 
 *Made with ❤️ for Machine Learning*
+
 
