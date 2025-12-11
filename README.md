@@ -73,7 +73,7 @@ machine-learning/
 │
 ├── heart_disease_prediction.ipynb    # Main Jupyter notebook (complete analysis)
 ├── ml_tutorial.ipynb                 # Reference tutorial notebook
-├── main.py                           # Python script version (optional)
+├── Main.ipynb                           # Python script version (optional)
 │
 ├── assignment_heart_disease.md       # Assignment instructions
 ├── README.md                         # This file
@@ -310,3 +310,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **⭐ If you found this project helpful, please give it a star!**
 
 *Made with ❤️ for Machine Learning*
+
